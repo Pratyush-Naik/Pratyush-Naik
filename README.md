@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pratyush-Naik
+- 👋 Hi, I’m @Pratyush Naik
 - 👀 I’m interested in Gaming, Coding & Cooking.  
 - 🌱 I’m currently learning HTML, CSS & JS.
 - 📫 How to reach me 👉 npratyush6@gmail.com
